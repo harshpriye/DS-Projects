@@ -1,5 +1,3 @@
-## README.md
-
 # [](https://github.com/harshpriye/Python-MachineLearning-Projects#machinelearningusingpython)MachineLearningUsingPython
 
 [![image.png](https://github.com/harshpriye/Python-MachineLearning-Projects/raw/master/Images/banner.png)](https://github.com/harshpriye/Python-MachineLearning-Projects/blob/master/Images/banner.png)  
